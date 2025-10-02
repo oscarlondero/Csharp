@@ -152,12 +152,6 @@ Console.WriteLine($"Perímetro Total: {gestor.CalcularPerimetroTotal()}");
 ```
 ---
 
-### 📚 Variaciones para el Examen
-- Agregar más figuras geométricas (cuadrado, trapecio, etc.).
-- Implementar interfaces para definir comportamientos comunes (ej: IAreaCalculable, IPerimetroCalculable).
-- Agregar validaciones a las propiedades (ej: el radio no puede ser negativo).
-- Implementar métodos para buscar figuras por nombre o tipo.
-- Agregar manejo de excepciones para errores comunes (ej: división por cero, formato incorrecto).
 
 ### 📄 Licencia
 - Este proyecto es de uso educativo y está disponible para fines de aprendizaje.
