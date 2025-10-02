@@ -184,12 +184,12 @@ Funcionalidad	10%	10 pts	El programa debe compilar y ejecutar correctamente, mos
 ¿Se Permite el Uso de IA?
 SÍ, se permite y se fomenta el uso de herramientas de IA para el desarrollo de este proyecto, incluyendo pero no limitado a:
 
-Max
-ChatGPT
-GitHub Copilot
-Gemini
-Cursor AI
-Otras herramientas de asistencia de código
+- Max
+- ChatGPT
+- GitHub Copilot
+- Gemini
+- Cursor AI
+- Otras herramientas de asistencia de código
 
 Condiciones de Uso
 ✅ PERMITIDO:
