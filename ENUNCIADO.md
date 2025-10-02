@@ -176,7 +176,7 @@ ENTREGABLES
 [ ] README.md (documentación del proyecto)
 
 3. Evidencia de Pruebas
-[ ] Screenshots de la ejecución del programa mostrando los resultados.
+[ ] Video con cámara encendida de 7-10 minutos compartiendo pantalla explicando el código y el funcionamiento del programa.
 
 USO DE INTELIGENCIA ARTIFICIAL
 ¿Se Permite el Uso de IA?
@@ -223,7 +223,7 @@ Capacidad de modificación en vivo
 Comprensión de decisiones arquitectónicas
 Habilidad de debugging sin asistencia de IA
 
-Ejemplos de preguntas en defensa:
+Tests y preguntas para desarrollar en video de la defensa del proyecto:
 
 "¿Por qué la clase Figura es abstracta?"
 "¿Cómo funciona el polimorfismo en este proyecto?"
@@ -231,116 +231,17 @@ Ejemplos de preguntas en defensa:
 "Agregue una nueva clase Cuadrado que herede de Figura."
 
 Documentación Obligatoria del Uso de IA
-Para promover transparencia académica, reflexión metacognitiva y aprendizaje profundo, todos los estudiantes deben entregar DOS archivos de documentación junto con el proyecto:
+Para promover transparencia académica, reflexión metacognitiva y aprendizaje profundo, todos los estudiantes deben entregar el archivo que documenta qué código fue generado por IA y cómo se modificó. Detallando herramienta de IA  utilizada y los textos de los prompts con sus respuestas.
 
-📄 Archivo 1: ai_declaration.md (Declaración de Uso de IA)
-Este archivo documenta qué código fue generado por IA y cómo se modificó.
-
-Estructura obligatoria:
-
-# 🤖 Declaración de Uso de IA 🤖
-
-1. He utilizado herramientas de IA en este entregable: [✅ Sí / ❌ No]
-
-2. Herramienta(s) utilizada(s):
-   - [Nombre de la herramienta y versión]
-
-3. Partes del entregable generadas por IA (ficheros/clases/métodos/fragmentos de código):
-   - [Lista específica de clases/métodos/secciones generadas]
-   - Ejemplo: "Clase `Circulo` (versión inicial)"
-   - Ejemplo: "Esquema inicial de clases `Figura`, `Circulo`, `Rectangulo`, `Triangulo`"
-
-4. Modificaciones realizadas sobre la salida de la IA:
-   - [Describir cambios específicos y el MOTIVO de cada cambio]
-   - Ejemplo: "Se agregó la propiedad `Nombre` a la clase `Figura`. **Motivo:** Era un requisito del proyecto."
-   - Ejemplo: "Se corrigió el cálculo del área del triángulo. **Motivo:** La IA usó una fórmula incorrecta."
-
-5. Fecha y enlace a la captura de la conversación o archivo con la salida original de la IA:
-   - Fecha: [YYYY-MM-DD]
-   - Enlace/Archivo: [Incluir screenshot o archivo de texto con la conversación completa]
-
-6. Consideraciones éticas (opcional):
-   - [Reflexión sobre el uso de IA y la originalidad del trabajo]
-Nivel de detalle esperado:
-
-❌ Incorrecto: "La IA generó el código"
-✅ Correcto: "ChatGPT generó las clases Figura, Circulo, Rectangulo y Triangulo (versión inicial). Se modificó la clase Figura para agregar la propiedad Nombre y se corrigió el cálculo del área del triángulo."
-📄 Archivo 2: metacognition.md (Informe de Metacognición)
-Este archivo documenta el proceso de aprendizaje y reflexión crítica sobre el trabajo realizado.
-
-Estructura obligatoria:
-
-# 🤔 Informe de Metacognición 🤔
-
-## 1. 🎯 Objetivo del entregable
-[Describir en 2-3 párrafos qué se debía lograr con este proyecto]
-
-## 2. 👣 Pasos realizados (herramientas, recursos, tiempo invertido)
-1. [Paso 1 con herramientas específicas y tiempo]
-   - Ejemplo: "Investigación sobre herencia en C# (2 horas): Consulté la documentación de Microsoft sobre herencia."
-2. [Paso 2]
-3. [Etc.]
-
-## 3. 🤯 Dificultades encontradas y cómo se resolvieron
-- **Dificultad 1:** [Descripción detallada]
-  - **¿Por qué fue difícil?:** [Explicación]
-  - **¿Cómo se resolvió?:** [Solución específica]
-  - **Estrategias utilizadas:** [Debugging, búsqueda en Stack Overflow, experimentación, etc.]
-
-## 4. 🤖 Si usé IA: prompt(s) usados, salida recibida y cambios realizados
-
-### Prompt 1:
-- **Prompt:** "[Texto exacto del prompt]"
-- **Salida (resumen):** "[Resumen de lo que generó la IA]"
-- **Modificaciones:** "[Cambios específicos realizados]"
-- **Efectividad del prompt:** "[¿Funcionó bien? ¿Qué se podría mejorar?]"
-
-### Prompt 2:
-[Repetir estructura]
-
-## 5. 🎓 Qué aprendí de esta actividad
-- [Lista de aprendizajes específicos, no generales]
-- Ejemplo correcto: "Aprendí que la herencia en C# se implementa con el operador `:` y que los métodos abstractos se definen con la palabra clave `abstract`."
-- Ejemplo incorrecto: "Aprendí sobre C#." (demasiado general)
-
-### ¿Cómo afectó el uso de IA mi aprendizaje?
-[Reflexión sobre si la IA aceleró/dificultó el aprendizaje, si generó nuevas preguntas, etc.]
-
-## 6. 🤔 Consideraciones éticas (opcional)
-[Reflexión sobre la autoría del código, transparencia, y uso responsable de IA]
-Nivel de detalle esperado:
-
-❌ Incorrecto: "Tuve problemas con la herencia."
-✅ Correcto: "La herencia fue difícil porque no entendía cómo implementar métodos abstractos. Investigué en la documentación de Microsoft y aprendí que los métodos abstractos se definen con la palabra clave abstract y que las clases derivadas deben implementar estos métodos."
-Propósito de los Archivos de Documentación
-Estos archivos buscan:
-
-Transparencia total: Saber exactamente qué código es original vs. generado por IA
-Aprendizaje profundo: Reflexionar sobre el proceso, no solo el resultado
-Pensamiento crítico: Analizar la efectividad de los prompts y las limitaciones de la IA
-Evaluación justa: Permitir al evaluador entender el nivel de comprensión real
-Honestidad académica: Promover la integridad sin penalizar el uso de herramientas modernas
-Importante: El uso de IA NO reduce la calificación si está bien documentado. Lo que se evalúa es:
-
-✅ La capacidad de modificar el código generado
-✅ La comprensión profunda del código final
-✅ La reflexión crítica sobre el proceso
-✅ La habilidad de explicar decisiones
-Penalizaciones:
-
-❌ No entregar ai_declaration.md o metacognition.md → -10 puntos
-❌ Documentación superficial o genérica → -5 puntos
-❌ No poder explicar el código en la defensa → Hasta -30 puntos
 CRONOGRAMA SUGERIDO
-Semana	Actividad	Horas
-1	Estructura base + Herencia + Abstracción	8-10
-2	Implementación de Clases Derivadas + Polimorfismo	10-12
-3	Implementación de GestorFiguras + Pruebas	8-10
-4	Documentación + Refinamiento	6-8
-Total estimado: 32-40 horas
+Semana	Actividad	                                        Horas
+1	    Estructura base + Herencia + Abstracción	        8-10
+2	    Implementación de Clases Derivadas + Polimorfismo	10-12
+3	    Implementación de GestorFiguras + Pruebas	        8-10
+4	    Documentación + Refinamiento	                    6-8
+
+Total estimado:                                         32-40 horas
 
 CONTACTO Y SOPORTE
-Para consultas sobre el proyecto:
+Para consultas sobre el proyecto: Profesores de cátedra.
 
-Revisar la documentación de C#
-Consultar la documentación de Microsoft sobre POO
