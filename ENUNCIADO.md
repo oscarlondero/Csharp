@@ -10,7 +10,7 @@
 **Paradigma:** Programación Orientada a Objetos (POO)
 **Tipo de Proyecto:** Sistema de gestión de figuras geométricas con herencia y polimorfismo
 **Nivel:** Intermedio
-**Duración Estimada:** 7 días de desarrollo
+**Duración Estimada:** 3-4 semanas de desarrollo
 
 ---
 
@@ -234,13 +234,15 @@ Documentación Obligatoria del Uso de IA
 Para promover transparencia académica, reflexión metacognitiva y aprendizaje profundo, todos los estudiantes deben entregar el archivo que documenta qué código fue generado por IA y cómo se modificó. Detallando herramienta de IA  utilizada y los textos de los prompts con sus respuestas.
 
 CRONOGRAMA SUGERIDO
+
 Semana	Actividad	                                        Horas
+----------------------------------------------------------------------
 1	    Estructura base + Herencia + Abstracción	        8-10
 2	    Implementación de Clases Derivadas + Polimorfismo	10-12
 3	    Implementación de GestorFiguras + Pruebas	        8-10
 4	    Documentación + Refinamiento	                    6-8
-
-Total estimado:                                         32-40 horas
+----------------------------------------------------------------------
+Total estimado:                                         32-40 horas (2 intervenciones semanales de 3-5 horas cada una)
 
 CONTACTO Y SOPORTE
 Para consultas sobre el proyecto: Profesores de cátedra.
