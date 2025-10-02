@@ -11,13 +11,13 @@ Sistema de gestión de figuras geométricas implementado en **C#** utilizando **
 
 ## 📋 Tabla de Contenidos
 
-- [Características](#-características)
-- [Requisitos](#-requisitos)
-- [Uso](#-uso)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Clases y Métodos](#-clases-y-métodos)
-- [Ejemplos de Uso](#-ejemplos-de-uso)
-- [Licencia](#-licencia)
+- [Características](#características)
+- [Requisitos](#requisitos)
+- [Uso](#uso)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Clases y Métodos](#clases-y-métodos)
+- [Ejemplos de Uso](#ejemplos-de-uso)
+- [Licencia](#licencia)
 
 ---
 
@@ -74,17 +74,11 @@ El programa crea instancias de las clases `Circulo`, `Rectangulo` y `Triangulo`,
 ---
 
 ## 📁 Estructura del Proyecto
-FigurasGeometricas/ │ 
-                    ├── Figura.cs # Clase base abstracta Figura 
-                    ├── Circulo.cs # Clase derivada Circulo 
-                    ├── Rectangulo.cs # Clase derivada Rectangulo 
-                    ├── Triangulo.cs # Clase derivada Triangulo 
-                    ├── GestorFiguras.cs # Clase GestorFiguras para gestionar la lista de figuras 
-                    ├── Program.cs # Archivo principal con el método Main 
-                      └── FigurasGeometricas.csproj # Archivo de proyecto de C#
+FigurasGeometricas/ ├── Figura.cs # Clase base abstracta Figura ├── Circulo.cs # Clase derivada Circulo ├── Rectangulo.cs # Clase derivada Rectangulo ├── Triangulo.cs # Clase derivada Triangulo ├── GestorFiguras.cs # Clase GestorFiguras para gestionar la lista de figuras ├── Program.cs # Archivo principal con el método Main └── FigurasGeometricas.csproj # Archivo de proyecto de C#
 
 
 ---
+
 ## 🛠️ Clases y Métodos
 
 ### Clase `Figura`
@@ -155,13 +149,11 @@ gestor.MostrarTodasLasFiguras();
 
 Console.WriteLine($"Área Total: {gestor.CalcularAreaTotal()}");
 Console.WriteLine($"Perímetro Total: {gestor.CalcularPerimetroTotal()}");
-📚 Posibles Variaciones para el Examen
+📚 Variaciones para el Examen
 Agregar más figuras geométricas (cuadrado, trapecio, etc.).
 Implementar interfaces para definir comportamientos comunes (ej: IAreaCalculable, IPerimetroCalculable).
 Agregar validaciones a las propiedades (ej: el radio no puede ser negativo).
 Implementar métodos para buscar figuras por nombre o tipo.
 Agregar manejo de excepciones para errores comunes (ej: división por cero, formato incorrecto).
 📄 Licencia
-Este proyecto es de uso educativo y está disponible para fines de aprendizaje.
-
-Desarrollado con 💻 como proyecto educativo de Programación Orientada a Objetos en C#
+Este proyecto es de uso educativo y está disponible para fines de aprendizaje. Desarrollado como proyecto educativo de Programación Orientada a Objetos en C#
