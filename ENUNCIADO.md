@@ -223,12 +223,11 @@ Durante la defensa del proyecto, el estudiante debe demostrar:
 Documentación Obligatoria del Uso de IA
 Para promover transparencia académica, reflexión metacognitiva y aprendizaje profundo, todos los estudiantes deben entregar el archivo que documenta qué código fue generado por IA y cómo se modificó. Detallando herramienta de IA  utilizada y los textos de los prompts con sus respuestas.
 
-### CRONOGRAMA SUGERIDO
+# CRONOGRAMA SUGERIDO
 
-Semana	Actividad	                                        Horas
-----------------------------------------------------------------------
-1	    Estructura base + Herencia + Abstracción	        8-10
-2	    Implementación de Clases Derivadas + Polimorfismo	10-12
+Semana 1:   Estructura base + Herencia + Abstracción	        8-10 hs
+Semans 2:   Implementación de Clases Derivadas + Polimorfismo	10-12 hs
+
 3	    Implementación de GestorFiguras + Pruebas	        8-10
 4	    Documentación + Refinamiento	                    6-8
 ----------------------------------------------------------------------
