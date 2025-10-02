@@ -17,7 +17,6 @@ Sistema de gestión de figuras geométricas implementado en **C#** utilizando **
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Clases y Métodos](#-clases-y-métodos)
 - [Ejemplos de Uso](#-ejemplos-de-uso)
-- [Posibles Variaciones para el Examen](#-posibles-variaciones-para-el-examen)
 - [Licencia](#-licencia)
 
 ---
