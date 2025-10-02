@@ -151,6 +151,7 @@ public class GestorFiguras
     public double CalcularAreaTotal();
     public double CalcularPerimetroTotal();
 }
+```
 ---
 # CRITERIOS DE EVALUACIÓN
 Distribución de Puntuación (100 puntos)
