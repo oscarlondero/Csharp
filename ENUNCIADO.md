@@ -151,7 +151,8 @@ public class GestorFiguras
     public double CalcularAreaTotal();
     public double CalcularPerimetroTotal();
 }
-CRITERIOS DE EVALUACIÓN
+
+### CRITERIOS DE EVALUACIÓN
 Distribución de Puntuación (100 puntos)
 Categoría	Peso	Puntos	Descripción
 Herencia y Abstracción	30%	30 pts	Correcta implementación de la clase base Figura y las clases derivadas.
@@ -161,7 +162,7 @@ Gestión de Figuras	15%	15 pts	Implementación de la clase GestorFiguras y sus m
 Calidad del Código	10%	10 pts	Código limpio, legible y bien documentado.
 Funcionalidad	10%	10 pts	El programa debe compilar y ejecutar correctamente, mostrando los resultados esperados.
 
-ENTREGABLES
+### ENTREGABLES
 1. Código Fuente
 [ ] Figura.cs
 [ ] Circulo.cs
@@ -178,7 +179,7 @@ ENTREGABLES
 3. Evidencia de Pruebas
 [ ] Video con cámara encendida de 7-10 minutos compartiendo pantalla explicando el código y el funcionamiento del programa.
 
-USO DE INTELIGENCIA ARTIFICIAL
+### USO DE INTELIGENCIA ARTIFICIAL
 ¿Se Permite el Uso de IA?
 SÍ, se permite y se fomenta el uso de herramientas de IA para el desarrollo de este proyecto, incluyendo pero no limitado a:
 
@@ -218,22 +219,10 @@ El estudiante debe modificar el código para cumplir requisitos
 Evaluación con Uso de IA
 Durante la defensa del proyecto, el estudiante debe demostrar:
 
-Conocimiento profundo del código implementado
-Capacidad de modificación en vivo
-Comprensión de decisiones arquitectónicas
-Habilidad de debugging sin asistencia de IA
-
-Tests y preguntas para desarrollar en video de la defensa del proyecto:
-
-"¿Por qué la clase Figura es abstracta?"
-"¿Cómo funciona el polimorfismo en este proyecto?"
-"Modifique la clase Circulo para que tenga una propiedad Diametro."
-"Agregue una nueva clase Cuadrado que herede de Figura."
-
 Documentación Obligatoria del Uso de IA
 Para promover transparencia académica, reflexión metacognitiva y aprendizaje profundo, todos los estudiantes deben entregar el archivo que documenta qué código fue generado por IA y cómo se modificó. Detallando herramienta de IA  utilizada y los textos de los prompts con sus respuestas.
 
-CRONOGRAMA SUGERIDO
+### CRONOGRAMA SUGERIDO
 
 Semana	Actividad	                                        Horas
 ----------------------------------------------------------------------
@@ -244,6 +233,6 @@ Semana	Actividad	                                        Horas
 ----------------------------------------------------------------------
 Total estimado:                                         32-40 horas (2 intervenciones semanales de 3-5 horas cada una)
 
-CONTACTO Y SOPORTE
+### CONTACTO Y SOPORTE
 Para consultas sobre el proyecto: Profesores de cátedra.
 
