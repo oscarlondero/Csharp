@@ -151,8 +151,8 @@ public class GestorFiguras
     public double CalcularAreaTotal();
     public double CalcularPerimetroTotal();
 }
-
-### CRITERIOS DE EVALUACIÓN
+---
+# CRITERIOS DE EVALUACIÓN
 Distribución de Puntuación (100 puntos)
 Categoría	Peso	Puntos	Descripción
 Herencia y Abstracción	30%	30 pts	Correcta implementación de la clase base Figura y las clases derivadas.
