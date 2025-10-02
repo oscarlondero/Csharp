@@ -181,8 +181,8 @@ Funcionalidad	10%	10 pts	El programa debe compilar y ejecutar correctamente, mos
 [ ] Video con cámara encendida de 7-10 minutos compartiendo pantalla explicando el código y el funcionamiento del programa.
 
 ### USO DE INTELIGENCIA ARTIFICIAL
-¿Se Permite el Uso de IA?
-SÍ, se permite y se fomenta el uso de herramientas de IA para el desarrollo de este proyecto, incluyendo pero no limitado a:
+- ¿Se Permite el Uso de IA?
+- SÍ, se permite y se fomenta el uso de herramientas de IA para el desarrollo de este proyecto, incluyendo pero no limitado a:
 
 - Max
 - ChatGPT
