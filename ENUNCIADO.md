@@ -160,6 +160,7 @@ Encapsulamiento	15%	15 pts	Uso de propiedades con get y set.
 Gestión de Figuras	15%	15 pts	Implementación de la clase GestorFiguras y sus métodos.
 Calidad del Código	10%	10 pts	Código limpio, legible y bien documentado.
 Funcionalidad	10%	10 pts	El programa debe compilar y ejecutar correctamente, mostrando los resultados esperados.
+
 ENTREGABLES
 1. Código Fuente
 [ ] Figura.cs
@@ -170,19 +171,24 @@ ENTREGABLES
 [ ] Program.cs
 [ ] Código funcional y ejecutable
 [ ] Cumple todas las restricciones técnicas
+
 2. Documentación
 [ ] README.md (documentación del proyecto)
+
 3. Evidencia de Pruebas
 [ ] Screenshots de la ejecución del programa mostrando los resultados.
+
 USO DE INTELIGENCIA ARTIFICIAL
 ¿Se Permite el Uso de IA?
 SÍ, se permite y se fomenta el uso de herramientas de IA para el desarrollo de este proyecto, incluyendo pero no limitado a:
 
+Max
 ChatGPT
 GitHub Copilot
+Gemini
 Cursor AI
-Tabnine
 Otras herramientas de asistencia de código
+
 Condiciones de Uso
 ✅ PERMITIDO:
 Generación de código con asistentes de IA
@@ -193,6 +199,7 @@ Explicaciones de conceptos y soluciones
 Refactoring guiado por IA
 Generación de datos de prueba
 Consultas sobre mejores prácticas
+
 ⚠️ RESPONSABILIDADES DEL ESTUDIANTE:
 Comprender el código generado
 
@@ -207,6 +214,7 @@ Adaptar a las especificaciones
 
 La IA puede generar código que no cumpla las restricciones
 El estudiante debe modificar el código para cumplir requisitos
+
 Evaluación con Uso de IA
 Durante la defensa del proyecto, el estudiante debe demostrar:
 
@@ -214,12 +222,14 @@ Conocimiento profundo del código implementado
 Capacidad de modificación en vivo
 Comprensión de decisiones arquitectónicas
 Habilidad de debugging sin asistencia de IA
+
 Ejemplos de preguntas en defensa:
 
 "¿Por qué la clase Figura es abstracta?"
 "¿Cómo funciona el polimorfismo en este proyecto?"
 "Modifique la clase Circulo para que tenga una propiedad Diametro."
 "Agregue una nueva clase Cuadrado que herede de Figura."
+
 Documentación Obligatoria del Uso de IA
 Para promover transparencia académica, reflexión metacognitiva y aprendizaje profundo, todos los estudiantes deben entregar DOS archivos de documentación junto con el proyecto:
 
