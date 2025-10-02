@@ -1,16 +1,16 @@
 # ENUNCIADO DEL PROYECTO
-## Sistema de Gestión de Figuras Geométricas
+## Sistema de Gestión de Figuras Geométricas - C#
 
 ---
 
 ## INFORMACIÓN GENERAL
 
-**Título del Proyecto:** Sistema de Gestión de Figuras Geométricas
-**Lenguaje:** C#
-**Paradigma:** Programación Orientada a Objetos (POO)
-**Tipo de Proyecto:** Sistema de gestión de figuras geométricas con herencia y polimorfismo
-**Nivel:** Intermedio
-**Duración Estimada:** 3-4 semanas de desarrollo
+- #### Título del Proyecto: Sistema de Gestión de Figuras Geométricas
+- #### Lenguaje: C#
+- #### Paradigma: Programación Orientada a Objetos (POO)
+- #### Tipo de Proyecto: Sistema de gestión de figuras geométricas con herencia y polimorfismo
+- #### Nivel: Intermedio
+- #### Duración Estimada: 3-4 semanas de desarrollo
 
 ---
 
@@ -202,7 +202,7 @@ Refactoring guiado por IA
 Generación de datos de prueba
 Consultas sobre mejores prácticas
 
-⚠️ RESPONSABILIDADES DEL ESTUDIANTE:
+### ⚠️ RESPONSABILIDADES DEL ESTUDIANTE:
 Comprender el código generado
 
 Debe poder explicar cada clase y método implementado
@@ -223,16 +223,17 @@ Durante la defensa del proyecto, el estudiante debe demostrar:
 Documentación Obligatoria del Uso de IA
 Para promover transparencia académica, reflexión metacognitiva y aprendizaje profundo, todos los estudiantes deben entregar el archivo que documenta qué código fue generado por IA y cómo se modificó. Detallando herramienta de IA  utilizada y los textos de los prompts con sus respuestas.
 
-# CRONOGRAMA SUGERIDO
+## CRONOGRAMA SUGERIDO
 
-Semana 1:   Estructura base + Herencia + Abstracción	        8-10 hs
-Semans 2:   Implementación de Clases Derivadas + Polimorfismo	10-12 hs
+- #### Semana 1:   Estructura base + Herencia + Abstracción	        8-10 hs
+- #### Semans 2:   Implementación de Clases Derivadas + Polimorfismo	10-12 hs
+- #### Semana 3:    Implementación de GestorFiguras + Pruebas	        8-10 hs
+- #### Semana 4:    Documentación + Refinamiento	                    6-8 hs
+---
+### Total estimado: 32-40 horas (2 intervenciones semanales de 3-5 horas cada una)
 
-3	    Implementación de GestorFiguras + Pruebas	        8-10
-4	    Documentación + Refinamiento	                    6-8
-----------------------------------------------------------------------
-Total estimado:                                         32-40 horas (2 intervenciones semanales de 3-5 horas cada una)
+---
 
-### CONTACTO Y SOPORTE
+## CONTACTO Y SOPORTE
 Para consultas sobre el proyecto: Profesores de cátedra.
 
